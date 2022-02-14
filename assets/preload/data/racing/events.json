@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "racing",
+		"player1": "bf-run",
+		"player2": "sonic-run",
+		"player3": null,
+		"events": [
+			[
+				35545.4545454546,
+				[
+					[
+						"Change Character",
+						"dad",
+						"super sonic"
+					],
+					[
+						"Play Animation",
+						"hey!",
+						"dad"
+					]
+				]
+			],
+			[
+				36363.6363636364,
+				[
+					[
+						"Flash",
+						"Flash",
+						"1"
+					]
+				]
+			],
+			[
+				112727.272727273,
+				[
+					[
+						"Flash",
+						"Flash",
+						"1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"super-bf-run"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nobody",
+		"bpm": 165,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Racing"
+	}
+}
