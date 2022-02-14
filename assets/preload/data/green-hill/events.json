@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "Sonic",
+		"player3": null,
+		"events": [
+			[
+				52994.0119760479,
+				[
+					[
+						"Play Animation",
+						"WOO!",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 167,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Green-Hill"
+	}
+}
