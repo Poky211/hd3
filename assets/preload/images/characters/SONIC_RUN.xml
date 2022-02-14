@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SONIC_RUN.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SONIC RUNNING HEAD DOWN0000" x="0" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0001" x="0" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0002" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0003" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0004" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0005" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0006" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0007" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0008" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0009" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0010" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD DOWN0011" x="435" y="0" width="435" height="456"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0000" x="870" y="0" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0001" x="870" y="0" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0002" x="1313" y="0" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0003" x="1313" y="0" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0004" x="0" y="456" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0005" x="443" y="456" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0006" x="886" y="456" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0007" x="886" y="456" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0008" x="1329" y="456" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0009" x="1329" y="456" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0010" x="0" y="898" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD IDLE0011" x="443" y="898" width="443" height="442"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0000" x="886" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0001" x="886" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0002" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0003" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0004" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0005" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0006" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0007" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0008" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0009" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0010" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD LEFT0011" x="1321" y="898" width="435" height="449"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0000" x="0" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0001" x="0" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0002" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0003" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0004" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0005" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0006" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0007" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0008" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0009" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0010" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD RIGHT0011" x="435" y="1347" width="435" height="425"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0000" x="870" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0001" x="870" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0002" x="1305" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0003" x="1305" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0004" x="1305" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0005" x="1305" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0006" x="1305" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0007" x="1305" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0008" x="1305" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0009" x="1305" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0010" x="1305" y="1347" width="435" height="414"/>
+	<SubTexture name="SONIC RUNNING HEAD UP0011" x="1305" y="1347" width="435" height="414"/>
+</TextureAtlas>
