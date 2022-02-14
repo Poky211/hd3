@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "SUPER SONIC IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SUPER SONIC NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SUPER SONIC NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SUPER SONIC NOTE UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SUPER SONIC NOTE RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey!",
+			"indices": [],
+			"name": "SONIC TRANSFORM"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SUPER SONIC",
+	"position": [
+		0,
+		-110
+	],
+	"healthicon": "Sonic",
+	"flip_x": false,
+	"healthbar_colors": [
+		59,
+		101,
+		236
+	],
+	"camera_position": [
+		0,
+		-270
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
